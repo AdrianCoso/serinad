@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">serinad</string>
+    <string name="seleccion_boton">Selecciona un botón</string>
+    <string name="seleccion_audio">Audio de alerta</string>
+    <string name="seleccion_color_alerta">Color de fondo</string>
+    <string name="btn_seleccion_audio">Seleccionar audio</string>
+    <string name="btn_seleccion_color">Elegir color</string>
+    <string name="selecciona_picto">Pictograma de alerta</string>
+    <string name="selecciona_pictograma">Selecciona un pictograma</string>
 </resources>
