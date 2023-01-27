@@ -7,4 +7,8 @@
     <string name="btn_seleccion_color">Elegir color</string>
     <string name="selecciona_picto">Pictograma de alerta</string>
     <string name="selecciona_pictograma">Selecciona un pictograma</string>
+    <string name="texto_alerta">Texto de alerta</string>
+    <string name="lblSpinnerBotones">Selecciona un botón para asignar la alerta</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="guardar">Guardar</string>
 </resources>
